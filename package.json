@@ -1,0 +1,20 @@
+{
+  "name": "component-selection-rect",
+  "description": "Selection rect for DOM based element selection",
+  "version": "0.1.0",
+  "keywords": [
+    "select",
+    "rectangle",
+    "selectable"
+  ],
+  "main": "index.js",
+  "styles": [
+    "selection-rect.css"
+  ],
+  "dependencies": {
+    "component-rect": "git://github.com/npmcomponent/component-rect.git",
+    "component-css": "git://github.com/npmcomponent/component-css.git",
+    "component-inherit": "git://github.com/npmcomponent/component-inherit.git"
+  },
+  "license": "MIT"
+}

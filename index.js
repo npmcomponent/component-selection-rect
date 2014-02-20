@@ -3,9 +3,9 @@
  * Module dependencies.
  */
 
-var inherit = require('inherit');
-var Rect = require('rect');
-var css = require('css');
+var inherit = require('component-inherit');
+var Rect = require('component-rect');
+var css = require('component-css');
 
 /**
  * Expose `Selection`.
